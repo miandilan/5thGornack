@@ -1616,3 +1616,207 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.03-21.23.54:515][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2024.04.03-21.23.54:540][633]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2024.04.03-21.27.35:946][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.28.30:013][225]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_1
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0038
+[2024.04.03-21.28.30:013][225]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_1
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0066
+[2024.04.03-21.29.37:571][147]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_2
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0038
+[2024.04.03-21.29.37:571][147]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_2
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0066
+[2024.04.03-21.29.38:588][207]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_3
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0038
+[2024.04.03-21.29.38:588][207]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Mixamo_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Mixamo_Player_C_3
+	Function /Game/Blueprints/Mixamo_Player.Mixamo_Player_C:ExecuteUbergraph_Mixamo_Player:0066
+[2024.04.03-21.29.43:599][497]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Player_Controller.Player_Controller
+[2024.04.03-21.29.43:599][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.29.43:599][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.29.43:611][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.29.43:611][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.29.43:617][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.03-21.29.43:619][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0038
+[2024.04.03-21.29.43:619][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0066
+[2024.04.03-21.29.43:619][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:00C1
+[2024.04.03-21.29.43:619][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0100
+[2024.04.03-21.29.43:966][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.29.43:966][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.29.44:079][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.29.44:085][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0038
+[2024.04.03-21.29.44:085][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0066
+[2024.04.03-21.29.44:085][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:00C1
+[2024.04.03-21.29.44:085][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0100
+[2024.04.03-21.29.44:087][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0038
+[2024.04.03-21.29.44:087][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0066
+[2024.04.03-21.29.44:087][497]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:00C1
+[2024.04.03-21.29.44:087][497]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0100
+[2024.04.03-21.29.44:095][497]LogViewport: Scene viewport resized to 473x370, mode Windowed.
+[2024.04.03-21.29.44:224][497]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.03-21.29.44:257][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.29.44:265][498]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0038
+[2024.04.03-21.29.44:265][498]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0066
+[2024.04.03-21.29.44:265][498]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:00C1
+[2024.04.03-21.29.44:265][498]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Player_Controller_C_0
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0100
+[2024.04.03-21.29.54:177][ 74]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.29.54:177][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.29.54:206][ 74]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.29.54:206][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.29.54:257][ 74]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.29.54:257][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.30.39:706][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Dummy.BP_Dummy
+[2024.04.03-21.30.39:707][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.30.39:707][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.30.43:838][817]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.30.43:838][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.31.06:855][942]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_1
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0038
+[2024.04.03-21.31.06:856][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_1
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0066
+[2024.04.03-21.31.06:856][942]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_1
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:00C1
+[2024.04.03-21.31.06:856][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Player_Controller_C /Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_Controller_C_1
+	Function /Game/Blueprints/Player_Controller.Player_Controller_C:ExecuteUbergraph_Player_Controller:0100
+[2024.04.03-21.31.08:650][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.03-21.31.08:653][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/KhangTest' took 0.025
+[2024.04.03-21.31.08:653][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AnimationBlueprint/Gornack_Stuff/Wallop_Punch] ([1] browsable assets)...
+[2024.04.03-21.31.08:693][ 12]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/AnimationBlueprint/Gornack_Stuff/Wallop_Punch.Wallop_Punch]
+[2024.04.03-21.31.08:693][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AnimationBlueprint/Gornack_Stuff/Wallop_Punch]
+[2024.04.03-21.31.08:699][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AnimationBlueprint/Gornack_Stuff/Wallop_Punch_Auto1
+[2024.04.03-21.31.08:699][ 12]LogSavePackage: Moving 'C:/Users/M/Documents/University/5thGornack/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Wallop_Punch_Auto1599BBBF44FDE9C1D1F718083A46F7520.tmp' to 'C:/Users/M/Documents/University/5thGornack/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Autosaves/Game/Blueprints/AnimationBlueprint/Gornack_Stuff/Wallop_Punch_Auto1.uasset'
+[2024.04.03-21.31.08:700][ 12]LogFileHelpers: Auto-saving content packages took 0.047
+[2024.04.03-21.31.09:206][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.31.09:307][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.31.24:487][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.24:487][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Anvil Icon.png]
+[2024.04.03-21.31.24:494][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Anvil.fbx)
+[2024.04.03-21.31.24:498][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Anvil.fbx
+[2024.04.03-21.31.24:509][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.24:658][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Anvil_Icon.Anvil_Icon (BGRA8, 488x329 x1x1x1) (Required Memory Estimate: 4.757999 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.24:713][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.26:329][164]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.03-21.31.26:462][164]LogFbx: Display: Triangulating static mesh Cube
+[2024.04.03-21.31.26:487][164]LogStaticMesh: Warning: Anvil has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.04.03-21.31.26:487][164]LogStaticMesh: Warning: Anvil has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.03-21.31.26:514][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.26:514][164]FBXImport: Warning: Anvil has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.04.03-21.31.26:514][164]FBXImport: Warning: Anvil has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.04.03-21.31.26:590][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.26:590][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Boxing Gloves Icon.png]
+[2024.04.03-21.31.26:597][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Boxing Gloves.fbx)
+[2024.04.03-21.31.26:603][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Boxing Gloves.fbx
+[2024.04.03-21.31.26:608][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.26:641][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Boxing_Gloves_Icon.Boxing_Gloves_Icon (BGRA8, 324x271 x1x1x1) (Required Memory Estimate: 2.630417 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.26:672][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.26:694][164]LogFbx: Display: Triangulating static mesh GLoves
+[2024.04.03-21.31.26:804][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.26:808][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.26:808][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Coins Icon.png]
+[2024.04.03-21.31.26:813][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Coins.fbx)
+[2024.04.03-21.31.26:818][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Coins.fbx
+[2024.04.03-21.31.26:823][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.26:869][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Coins_Icon.Coins_Icon (TFO_AutoDXT, 372x268 x1x1x1) (Required Memory Estimate: 15.781897 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.26:900][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.26:944][164]LogFbx: Display: Triangulating static mesh Coins
+[2024.04.03-21.31.27:002][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.27:006][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.27:006][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Ham Hock Icon.png]
+[2024.04.03-21.31.27:012][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Ham Hock.fbx)
+[2024.04.03-21.31.27:017][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Ham Hock.fbx
+[2024.04.03-21.31.27:023][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.27:063][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Ham_Hock_Icon.Ham_Hock_Icon (BGRA8, 321x285 x1x1x1) (Required Memory Estimate: 2.738071 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.27:088][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.27:130][164]LogFbx: Display: Triangulating static mesh Chunk of Meat.001
+[2024.04.03-21.31.27:219][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.27:223][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.27:223][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Pouch Icon.png]
+[2024.04.03-21.31.27:229][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Pouch.fbx)
+[2024.04.03-21.31.27:235][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Pouch.fbx
+[2024.04.03-21.31.27:241][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.27:286][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Pouch_Icon.Pouch_Icon (TFO_AutoDXT, 328x368 x1x1x1) (Required Memory Estimate: 19.094324 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.27:291][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.27:332][164]LogFbx: Display: Triangulating static mesh Sphere
+[2024.04.03-21.31.27:393][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.27:397][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.27:397][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Sus Medallion.png]
+[2024.04.03-21.31.27:403][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/SusMedallion.fbx)
+[2024.04.03-21.31.27:408][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/SusMedallion.fbx
+[2024.04.03-21.31.27:411][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.27:411][164]FBXImport: Error: Could not find any node. 
+[2024.04.03-21.31.27:411][164]FBXImport: Error: Import failed. 
+[2024.04.03-21.31.27:501][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Sus_Medallion.Sus_Medallion (BGRA8, 413x633 x1x1x1) (Required Memory Estimate: 7.708256 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.27:508][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:503][164]LogSlate: Window 'Message' being destroyed
+[2024.04.03-21.31.29:508][164]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:/Users/M/Documents/University/Loot Drop Models/SusMedallion.fbx'. Failed to create asset '/Game/Blueprints/Inventory/InventoryModel/SusMedallion'.
+Please see Output Log for details.
+[2024.04.03-21.31.29:508][164]LogAssetTools: Warning: Failed to import 'C:/Users/M/Documents/University/Loot Drop Models/SusMedallion.fbx'. Failed to create asset '/Game/Blueprints/Inventory/InventoryModel/SusMedallion'.
+Please see Output Log for details.
+[2024.04.03-21.31.29:508][164]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.31.29:508][164]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/M/Documents...ity/Loot Drop Models/Wooden Logs Icon.png]
+[2024.04.03-21.31.29:515][164]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/M/Documents/University/Loot Drop Models/Wooden Logs.fbx)
+[2024.04.03-21.31.29:521][164]LogFbx: Loading FBX Scene from C:/Users/M/Documents/University/Loot Drop Models/Wooden Logs.fbx
+[2024.04.03-21.31.29:527][164]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.03-21.31.29:562][164]LogTexture: Display: Building textures: /Game/Blueprints/Inventory/InventoryModel/Wooden_Logs_Icon.Wooden_Logs_Icon (BGRA8, 617x357 x1x1x1) (Required Memory Estimate: 6.50449 MB), EncodeSpeed: Fast
+[2024.04.03-21.31.29:590][164]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:596][164]LogFbx: Display: Triangulating static mesh Chunk of Meat.001
+[2024.04.03-21.31.29:681][164]LogFbx: Display: Triangulating static mesh Logs.001
+[2024.04.03-21.31.29:748][164]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.03-21.31.29:847][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:867][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:881][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:895][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:908][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:922][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.29:937][165]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.31.31:606][204]LogSlate: Window 'Message Log' being destroyed
+[2024.04.03-21.31.31:631][204]LogSlate: Window 'Message Log' being destroyed
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: ================================================
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: Total job queries 231, among them cache hits 126 (54.55%)
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 63 distinct outputs (60.00%)
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: RAM used: 2.17 MiB of 819.20 MiB budget. Usage: 0.27%
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.03-21.31.32:957][254]LogShaderCompilers: Display: ================================================
